@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- These are user accounts -->
+<sheepuploader>
+ <authors>
+  <author>
+   <name></name>
+   <address></address>
+  </author>
+ </authors>
+ <accounts>
+  <account name="AnonFiles">
+   <username></username>
+   <password></password>
+  </account>
+ </accounts>
+</sheepuploader>

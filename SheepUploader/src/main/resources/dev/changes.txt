@@ -1,0 +1,8 @@
+Sheep Uploader version 0.0.1
+- add simple drag'n'drop interface;
+- add xml files for supported hosts, accounts and user hosts;
+- import log4j, jgoodies forms and httpclient;
+- add a file size limit class;
+- add Builders for host and file size limit;
+- add a dialog with all the hosts in the xml file;
+- add add menu;

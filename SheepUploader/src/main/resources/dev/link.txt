@@ -1,0 +1,4 @@
+- drag'n'drop: http://docs.oracle.com/javase/tutorial/uiswing/dnd/basicdemo.html
+- to build: http://stackoverflow.com/questions/1814526/problem-building-executable-jar-with-maven
+- maven official doc: http://maven.apache.org/guides/index.html
+- create an updater: http://www.dreamincode.net/forums/topic/190944-creating-an-updater-in-java/

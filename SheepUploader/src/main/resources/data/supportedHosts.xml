@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- These are the supported hosts -->
+<sheepuploader>
+ <hosts>
+  <host support="false">
+   <name>AnonFiles</name>
+   <address>https://anonfiles.com/</address>
+   <private support="true"></private>
+   <login support="false"></login>
+   <TOS address="https://anonfiles.com/en/terms"></TOS> <!-- Terms Of Service -->
+   <filesizelimit>
+    <notloggedin>524288000</notloggedin> <!-- 500 MB in bytes -->
+   </filesizelimit>
+  </host>
+ </hosts>
+</sheepuploader>
