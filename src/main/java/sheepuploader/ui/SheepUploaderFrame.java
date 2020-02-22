@@ -29,7 +29,7 @@ import com.jgoodies.forms.layout.FormLayout;
 import com.jgoodies.forms.layout.RowSpec;
 import javax.swing.JMenuItem;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.Logger;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.ActionListener;

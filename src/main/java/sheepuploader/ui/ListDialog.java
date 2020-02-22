@@ -18,7 +18,7 @@ import javax.swing.JTable;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.Logger;
 
 import sheepuploader.lists.FileSizeLimit;
 import sheepuploader.lists.Host;
