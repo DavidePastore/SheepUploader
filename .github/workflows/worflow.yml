@@ -18,4 +18,4 @@ jobs:
       - name: Install Maven dependencies
         run: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
       - name: Build
-        run: mvn build
+        run: mvn verify
